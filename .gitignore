@@ -1,0 +1,8 @@
+/target/
+/**/target/
+*.exe
+*.dll
+*.so
+*.dylib
+.env
+credentials.json
